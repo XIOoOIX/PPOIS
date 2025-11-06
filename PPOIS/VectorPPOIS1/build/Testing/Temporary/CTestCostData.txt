@@ -1,0 +1,18 @@
+VectorTest.DefaultConstructor 6 0.00322733
+VectorTest.ParameterizedConstructor 6 0.00308978
+VectorTest.CopyAndAssignment 6 0.0033687
+VectorTest.Setters 6 0.00320547
+VectorTest.Length 6 0.00320845
+VectorTest.AdditionAndSubtraction 6 0.00334233
+VectorTest.ScalarMultiplication 6 0.00338502
+VectorTest.CrossProduct 6 0.00332693
+VectorTest.ComponentDivision 6 0.00288187
+VectorTest.DivisionByZero 3 0.00428017
+VectorTest.CosineAngle 6 0.00307325
+VectorTest.CosineWithZeroVector 3 0.0049473
+VectorTest.ComparisonOperators 6 0.00329358
+VectorTest.InputOutputOperators 3 0.00355713
+VectorTest.NegativeCoordinates 3 0.0036024
+VectorTest.EqualLengthDifferentCoordinates 3 0.0032833
+VectorTest.AllComparisonCases 3 0.00343657
+---

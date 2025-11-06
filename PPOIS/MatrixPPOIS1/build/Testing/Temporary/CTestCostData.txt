@@ -1,0 +1,15 @@
+MatrixTest.DefaultConstructor 4 0.00522375
+MatrixTest.ParameterizedConstructor 4 0.004984
+MatrixTest.CopyAndAssignment 4 0.0046023
+MatrixTest.SetAndGetElement 4 0.00485183
+MatrixTest.Resize 4 0.00462552
+MatrixTest.Submatrix 4 0.00449272
+MatrixTest.Transpose 4 0.00471245
+MatrixTest.MatrixArithmetic 4 0.0044456
+MatrixTest.MatrixMultiplication 4 0.00437558
+MatrixTest.ScalarOperations 4 0.00453083
+MatrixTest.Determinant 4 0.00462055
+MatrixTest.Norm 4 0.00440317
+MatrixTest.MatrixProperties 4 0.00460463
+MatrixTest.LoadFromFile 4 0.00540147
+---

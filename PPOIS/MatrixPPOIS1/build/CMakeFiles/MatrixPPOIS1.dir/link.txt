@@ -1,0 +1,3 @@
+"D:\soft\CLion 2025.2.3\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\MatrixPPOIS1.dir/objects.a
+"D:\soft\CLion 2025.2.3\bin\mingw\bin\ar.exe" qc CMakeFiles\MatrixPPOIS1.dir/objects.a @CMakeFiles\MatrixPPOIS1.dir\objects1.rsp
+"D:\soft\CLion 2025.2.3\bin\mingw\bin\g++.exe"  -fprofile-arcs -ftest-coverage -O0  -fprofile-arcs -ftest-coverage -Wl,--whole-archive CMakeFiles\MatrixPPOIS1.dir/objects.a -Wl,--no-whole-archive -o MatrixPPOIS1.exe -Wl,--out-implib,libMatrixPPOIS1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\MatrixPPOIS1.dir\linkLibs.rsp
