@@ -4,7 +4,6 @@ from app.views.main_window import MainWindow
 
 
 def main() -> None:
-    # Инициализация всех звеньев согласно MVC и Dependency Injection (SOLID)
     model = PlayerRepository()
     controller = PlayerController()
     view = MainWindow(controller)
@@ -12,10 +11,8 @@ def main() -> None:
     controller.set_model(model)
     controller.set_view(view)
 
-    # Первичная отрисовка таблицы
     controller.sync_data_to_view()
 
-    # Запуск Tkinter loop
     view.mainloop()
 
 
